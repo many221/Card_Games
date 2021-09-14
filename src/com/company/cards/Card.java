@@ -1,4 +1,4 @@
-package cards;
+package com.company.cards;
 
 public abstract class Card {
 

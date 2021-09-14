@@ -1,4 +1,4 @@
-package cards;
+package com.company.cards;
 
 public class classic_card extends Card{
 
